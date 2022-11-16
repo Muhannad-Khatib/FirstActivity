@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bodyMassIndex</string>
+    <string name="height">Enter your Height</string>
+    <string name="mass">Enter your mass</string>
+    <string name="calculate">Calculate</string>
+    <string name="res">Your BMI will appear here</string>
+</resources>
